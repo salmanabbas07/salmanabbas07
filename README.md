@@ -43,12 +43,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanabbas07&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanabbas07&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmanabbas07&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanabbas07&theme=radical" height="165" alt="Top Languages" />
 </div>
-
 <br>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanabbas07&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=F77F00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
