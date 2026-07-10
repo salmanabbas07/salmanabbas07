@@ -39,16 +39,14 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
+### 🏆 My GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmanabbas07&theme=radical" height="165" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanabbas07&theme=radical" height="165" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salmanabbas07&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies" />
 </div>
 <br>
+### 😂 Developer Humor
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanabbas07&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
 </div>
 <br>
 <div align="center">
