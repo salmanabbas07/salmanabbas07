@@ -1,9 +1,13 @@
-<div align="center">
-  <h2>Hi there! 🚀<br>I'm Salman Abbas 😁</h2>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h1>Hi there, I'm Salman Abbas! 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+%7C+Node.js+%7C+MongoDB+%7C+Express" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/salman-abbas-3090413a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,42 +19,36 @@
   </a>
 </div>
 
-<br/>
+---
 
-### About me
+### 👨‍💻 About Me
 
 * 🚀 I’m currently working on **[ElectraX](https://electra-x-three.vercel.app/)**
 * 🌱 I’m currently learning **Next.JS & React Native**
-* 👨‍💻 Check out my projects on **[My Portfolio](https://salman-portfolio-three.vercel.app/)**
+* 👨‍💻 All of my projects are available at **[My Portfolio](https://salman-portfolio-three.vercel.app/)**
 * 💬 Ask me about **React, Tailwind, Bootstrap, HTML & CSS**
 * 📄 Read more about my experiences in **[My Resume](https://drive.google.com/file/d/1l6zd2x4aVwGrZwZBWtGpdpeUwCvmv76I/view?usp=drive_link)**
-* ⚡ Fun fact: I can write code for hours but can't find the missing semicolon!
+* ⚡ Fun fact: *I can write code for hours but can't find the missing semicolon!*
 
-<br/>
+---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,bootstrap,sass,redux,git,github,bash,webpack,babel,ps&perline=10" alt="My Skills" />
+</div>
 
-<br/>
+---
 
-### Github Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanabbas07&show_icons=true&theme=default&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanabbas07&layout=compact&theme=default&hide_border=false" height="150" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanabbas07&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanabbas07&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=F77F00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
