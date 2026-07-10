@@ -39,16 +39,3 @@
 </div>
 
 ---
-### 🏆 My GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanabbas07&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=F77F00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
