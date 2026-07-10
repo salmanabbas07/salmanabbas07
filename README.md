@@ -44,7 +44,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=salmanabbas07&theme=radical&no-frame=true&margin-w=15&column=7" alt="Trophies" />
 </div>
 <br>
-### 😂 Developer Humor
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
 </div>
