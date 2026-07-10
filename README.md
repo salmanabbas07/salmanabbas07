@@ -1,78 +1,81 @@
+<br/>
+
 <div align="center">
-  <!-- Cool Hacker Scrolling Code Banner -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Salman+Abbas+👋;I'm+a+Full+Stack+Web+Developer;I+build+things+for+the+web;MERN+Stack+Specialist" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Salman+Abbas+👋;I'm+a+Full+Stack+Web+Developer;I+build+things+for+the+web;MERN+Stack+Specialist" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- Social Icons in a glowing style -->
+<!-- Social Icons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/salman-abbas-3090413a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:abbassalman813@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://salman-portfolio-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=00FF9D" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 <br/>
 <br/>
 
-<!-- Premium UI Dashboard Layout using Tables -->
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 20px;">
-      <h2 align="center">⚡ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
-      <br/>
-      <ul>
-        <li>🚀 Currently working on <b><a href="https://electra-x-three.vercel.app/" style="color: #00FF9D; text-decoration: none;">ElectraX</a></b></li>
-        <br/>
-        <li>🌱 Learning <b>Next.JS & React Native</b></li>
-        <br/>
-        <li>👨‍💻 Portfolio: <b><a href="https://salman-portfolio-three.vercel.app/" style="color: #00FF9D; text-decoration: none;">salman-portfolio</a></b></li>
-        <br/>
-        <li>💬 Ask me about <b>React, Tailwind, Express</b></li>
-        <br/>
-        <li>📄 View my <b><a href="https://drive.google.com/file/d/1l6zd2x4aVwGrZwZBWtGpdpeUwCvmv76I/view?usp=drive_link" style="color: #00FF9D; text-decoration: none;">Resume</a></b></li>
-      </ul>
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 20px;">
-      <h2 align="center">🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤</h2>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,bootstrap,git,github,bash,webpack,ps&perline=4" alt="My Skills" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
-
-<h2 align="center">🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2>
+<h3 align="center">✦ About Me ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanabbas07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanabbas07&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D" height="170" alt="GitHub Streak" />
+  
+> 🚀 I’m currently working on **[ElectraX](https://electra-x-three.vercel.app/)**  
+> <br/>
+> 🌱 I’m currently learning **Next.JS & React Native**  
+> <br/>
+> 👨‍💻 Check out my projects on **[My Portfolio](https://salman-portfolio-three.vercel.app/)**  
+> <br/>
+> 💬 Ask me about **React, Tailwind, Bootstrap, HTML & CSS**  
+> <br/>
+> 📄 Read more about my experiences in **[My Resume](https://drive.google.com/file/d/1l6zd2x4aVwGrZwZBWtGpdpeUwCvmv76I/view?usp=drive_link)**  
+> <br/>
+> ⚡ Fun fact: *I can write code for hours but can't find the missing semicolon!*  
+
+</div>
+
+<br/>
+<br/>
+
+<h3 align="center">✦ Tech Stack ✦</h3>
+
+<br/>
+
+<div align="center">
+  <!-- पहली लाइन के स्किल्स -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,ts,html,css&perline=10" alt="My Skills" />
+  <br/>
+  <br/>
+  <!-- दूसरी लाइन के स्किल्स -->
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,redux,git,github,bash,webpack,babel,ps&perline=10" alt="My Skills" />
+</div>
+
+<br/>
+<br/>
+
+<h3 align="center">✦ GitHub Stats ✦</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanabbas07&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanabbas07&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="170" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanabbas07&theme=tokyo-night&bg_color=1A1B27&color=00FF9D&line=00FF9D&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanabbas07&theme=tokyo-night&bg_color=1A1B27&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=salmanabbas07&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
